@@ -1,5 +1,7 @@
 # ChungMinh SMP — bộ mod + config client
 
+**Tải:** https://github.com/luongminhduc-hittake/chungminh-smp-client/releases/download/v1/ChungMinhSMP-client.zip
+
 Copy vào thư mục game (`.minecraft` hoặc instance PrismLauncher/MultiMC).
 
 ## Yêu cầu
